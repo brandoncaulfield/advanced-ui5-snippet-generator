@@ -6,7 +6,7 @@ This is the README for your extension "advanced-ui5-snippet-generator". After wr
 
 ![](media/Demo.gif)
 
-# Commands:
+### Commands:
 * ds - New data source for the manifest
 * model - new model 
 
