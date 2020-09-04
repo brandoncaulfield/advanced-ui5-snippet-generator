@@ -4,7 +4,7 @@ This is an advanced UI5 snippet generator that you can use to help speed up your
 
 ## Features
 
-![](https://media.giphy.com/media/RNclGKbxvSiwenXHzR/giphy.gif)
+![](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator/blob/master/media/Demo.gif)
 
 ### Commands:
 * ds - New data source for the manifest
