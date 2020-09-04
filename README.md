@@ -26,7 +26,7 @@ None that I'm aware of.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Expect minor releases as new snippets are added.
 
 ### 1.0.0
 
