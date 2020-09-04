@@ -3,6 +3,16 @@
     "displayName": "Advanced UI5 Snippet Generator",
     "description": "A UI5 snippet generator to help speed up your UI5 development :)",
     "version": "0.0.1",
+    "publisher": "BrandonCaulfield",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brandoncaulfield/advanced-abap-snippet-generator"
+    },
+    "keywords": [
+        "ABAP",
+        "sap"
+    ],
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.48.0"
     },
