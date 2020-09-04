@@ -6,7 +6,7 @@
     "publisher": "BrandonCaulfield",
     "repository": {
         "type": "git",
-        "url": "https://github.com/brandoncaulfield/advanced-abap-snippet-generator"
+        "url": "https://github.com/brandoncaulfield/advanced-ui5-snippet-generator"
     },
     "keywords": [
         "ui5",
