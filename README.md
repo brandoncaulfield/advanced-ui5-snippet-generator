@@ -1,6 +1,6 @@
 # Advanced UI5 Snippet Generator README
 
-This is an advanced UI5 snippet generator that you can use to help speed up your development :) It offers snippets for JavaScript, JSON and XML. Happy Coding!
+This is the Advanced UI5 Snippet Generator that you can use to help speed up your development :) It offers snippets for JavaScript, JSON and XML in the SAP UI5 context. Happy Coding!
 
 ## Features
 
