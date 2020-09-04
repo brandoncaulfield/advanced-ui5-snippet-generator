@@ -1,10 +1,10 @@
 # Advanced UI5 Snippet Generator README
 
-This is the README for your extension "advanced-ui5-snippet-generator". After writing up a brief description, we recommend including the following sections.
+This is an advanced UI5 snippet generator that you can use to help speed up your development :) It offers snippets for JavaScript, JSON and XML. Happy Coding!
 
 ## Features
 
-![](media/Demo.gif)
+![](https://media.giphy.com/media/RNclGKbxvSiwenXHzR/giphy.gif)
 
 ### Commands:
 * ds - New data source for the manifest

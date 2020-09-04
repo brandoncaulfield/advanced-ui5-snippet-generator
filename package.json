@@ -13,7 +13,7 @@
         "fiori",
         "sap"
     ],
-    "icon": "media/icon.png",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.48.0"
     },
