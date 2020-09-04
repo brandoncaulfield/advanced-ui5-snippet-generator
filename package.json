@@ -1,0 +1,28 @@
+{
+    "name": "advanced-ui5-snippet-generator",
+    "displayName": "Advanced UI5 Snippet Generator",
+    "description": "A UI5 snippet generator to help speed up your UI5 development :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

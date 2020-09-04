@@ -1,0 +1,38 @@
+{
+    "new data sources": {
+        "prefix": "dsNew",
+        "body": [
+            "\"dataSources\": {",
+            "\t\"data_source_name\": {",
+            "\t\t\"uri\": \"\",",
+            "\t\t\"type\": \"OData\",",
+            "\t\t\"localUri\": \"\"",
+            "\t}",
+            "}",
+        ],
+        "description": "(ADV UI5)New data source for manifest"
+    },
+    "add data sources": {
+        "prefix": "dsAdd",
+        "body": [
+            ",",
+            "\t\"data_source_name\": {",
+            "\t\t\"uri\": \"\",",
+            "\t\t\"type\": \"OData\",",
+            "\t\t\"localUri\": \"\"",
+            "\t}",
+        ],
+        "description": "(ADV UI5)Add data source to manifest"
+    },
+    "model": {
+        "prefix": "model",
+        "body": [
+            ",",
+            "\"model_name\": {",
+            "\t\"dataSource\": \"\",",
+            "\t\"settings\": {}",
+            "}",
+        ],
+        "description": "(ADV UI5)add model definition"
+    }
+}
