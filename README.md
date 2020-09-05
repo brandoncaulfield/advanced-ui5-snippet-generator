@@ -11,9 +11,9 @@ This is the Advanced UI5 Snippet Generator that you can use to help speed up you
 
 | Command  | Snippet |
 | -------: | ------- |
-| `dsNew` | New data source for the manifest |
-| `dsAdd` | Add data source for the manifest |
-| `model` | New Model |
+| `dsNew->` | New data source for the manifest |
+| `dsAdd->` | Add data source for the manifest |
+| `model->` | New Model |
 
 ## Requirements
 
