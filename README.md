@@ -5,10 +5,15 @@ This is the Advanced UI5 Snippet Generator that you can use to help speed up you
 ## Features
 
 ![Demo](https://user-images.githubusercontent.com/19891236/92242881-63900f00-eeb8-11ea-9809-d13e3a9a9840.gif)
+ 
 
-### Commands:
-* ds - New data source for the manifest
-* model - new model 
+### JSON Snippets
+
+| Command  | Snippet |
+| -------: | ------- |
+| `dsNew` | New data source for the manifest |
+| `dsAdd` | Add data source for the manifest |
+| `model` | New Model |
 
 ## Requirements
 
