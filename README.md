@@ -7,6 +7,12 @@ This is the Advanced UI5 Snippet Generator that you can use to help speed up you
 ![Demo](https://user-images.githubusercontent.com/19891236/92242881-63900f00-eeb8-11ea-9809-d13e3a9a9840.gif)
  
 
+### JS Snippets
+
+| Command  | Snippet |
+| -------: | ------- |
+| `getModel->` | Grab the model context |
+
 ### JSON Snippets
 
 | Command  | Snippet |
@@ -14,6 +20,13 @@ This is the Advanced UI5 Snippet Generator that you can use to help speed up you
 | `dsNew->` | New data source for the manifest |
 | `dsAdd->` | Add data source for the manifest |
 | `model->` | New Model |
+
+### XML Snippets
+
+| Command  | Snippet |
+| -------: | ------- |
+| `inputSML->` | New XML Input and Label |
+
 
 ## Requirements
 
