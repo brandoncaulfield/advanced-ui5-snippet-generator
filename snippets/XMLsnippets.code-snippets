@@ -1,0 +1,21 @@
+{
+    "new data sources": {
+        "prefix": "inputXML",
+        "body": [
+            "<Label text=\"$1\" labelFor=\"$2\" />",
+            "<Input",
+            "\tid=\"$3\"",
+            "\tplaceholder=\"$4\"",
+            "\tshowSuggestion=\"${5|true,false|}\"",
+            "\tshowValueHelp=\"${6|true,false|}\"",
+            "\tvalueHelpRequest=\".onValueHelpRequest\"",
+            "\tsuggestionItems=\"{$7}\">",
+            "\t\t<suggestionItems>",
+            "\t\t\t<core:Item text=\"${8:itemName}\" />",
+            "\t\t</suggestionItems>",
+            "</Input>",
+        ],
+        "description": "(ADV UI5)Input with label"
+    }
+    
+}

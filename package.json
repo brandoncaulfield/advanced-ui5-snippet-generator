@@ -24,15 +24,15 @@
         "snippets": [
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/JSsnippets.code-snippets"
             },
             {
                 "language": "json",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/JSONsnippets.code-snippets"
             },
             {
                 "language": "xml",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/XMLsnippets.code-snippets"
             }
         ]
     }

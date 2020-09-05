@@ -3,10 +3,10 @@
         "prefix": "dsNew",
         "body": [
             "\"dataSources\": {",
-            "\t\"data_source_name\": {",
-            "\t\t\"uri\": \"\",",
+            "\t\"${1:data_source_name}\": {",
+            "\t\t\"uri\": \"${2:uri}\",",
             "\t\t\"type\": \"OData\",",
-            "\t\t\"localUri\": \"\"",
+            "\t\t\"localUri\": \"${3:localUri}\"",
             "\t}",
             "}",
         ],
@@ -16,10 +16,10 @@
         "prefix": "dsAdd",
         "body": [
             ",",
-            "\t\"data_source_name\": {",
-            "\t\t\"uri\": \"\",",
+            "\t\"${1:data_source_name}\": {",
+            "\t\t\"uri\": \"${2:uri}\",",
             "\t\t\"type\": \"OData\",",
-            "\t\t\"localUri\": \"\"",
+            "\t\t\"localUri\": \"${3:localUri}\"",
             "\t}",
         ],
         "description": "(ADV UI5)Add data source to manifest"
@@ -28,9 +28,9 @@
         "prefix": "model",
         "body": [
             ",",
-            "\"model_name\": {",
-            "\t\"dataSource\": \"\",",
-            "\t\"settings\": {}",
+            "\"${1:model_name}\": {",
+            "\t\"dataSource\": \"${2:dataSource}\",",
+            "\t\"settings\": {\"${3:settings}\"}",
             "}",
         ],
         "description": "(ADV UI5)add model definition"

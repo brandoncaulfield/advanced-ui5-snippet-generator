@@ -1,0 +1,10 @@
+{
+    "Get Model": {
+        "prefix": "getModel",
+        "body": [
+            "this.getOwnerComponent().getModel(${1:model});"
+        ],
+        "description": "(ADV UI5)Grab the model reference"
+    },
+    
+}
