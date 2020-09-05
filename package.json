@@ -2,7 +2,7 @@
     "name": "advanced-ui5-snippet-generator",
     "displayName": "Advanced UI5 Snippet Generator",
     "description": "A UI5 snippet generator to help speed up your UI5 development :)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "BrandonCaulfield",
     "repository": {
         "type": "git",
