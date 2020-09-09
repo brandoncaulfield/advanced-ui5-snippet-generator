@@ -25,7 +25,7 @@ This is the Advanced UI5 Snippet Generator that you can use to help speed up you
 
 | Command  | Snippet |
 | -------: | ------- |
-| `inputSML->` | New XML Input and Label |
+| `inputXML->` | New XML Input and Label |
 
 
 ## Requirements
